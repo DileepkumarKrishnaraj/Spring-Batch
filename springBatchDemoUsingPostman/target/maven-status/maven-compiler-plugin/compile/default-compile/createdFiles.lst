@@ -1,0 +1,6 @@
+com/samco/springBatchDemoUsingPostman/config/EmployeeProcessor.class
+com/samco/springBatchDemoUsingPostman/config/SpringBatchConfig.class
+com/samco/springBatchDemoUsingPostman/SpringBatchDemoUsingPostmanApplication.class
+com/samco/springBatchDemoUsingPostman/entity/Employee.class
+com/samco/springBatchDemoUsingPostman/repository/EmployeeRepository.class
+com/samco/springBatchDemoUsingPostman/controller/JobController.class
